@@ -24,7 +24,7 @@ linkedin_username: boris-garbuzov
 instagram_username: boris.garbuzov
 header_pages:
   - projects.md
-  - courses.md
+  - teaching.md
   - resume.md
 # Build settings
 markdown: kramdown
