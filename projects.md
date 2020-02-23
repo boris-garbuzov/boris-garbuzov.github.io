@@ -58,6 +58,9 @@ In my experimental cases the threshold estimator converged faster.
   <div class="column">
     <img src="/assets/images/examples/4.png" style="width:100%">
   </div>
+  <div class="column">
+    <img src="/assets/images/examples/boxplot_BF_1d.jpeg" style="width:100%">
+  </div>  
 </div>
 <div class="row">
   <div class="column">
@@ -75,9 +78,7 @@ In my experimental cases the threshold estimator converged faster.
     <div class="column">
     <img src="/assets/images/examples/2D_means_barplot_VAS_2h.jpeg" style="width:100%">
   </div>
-  <div class="column">
-    <img src="/assets/images/examples/boxplot_BF_1d.jpeg" style="width:100%">
-  </div>
+
 </div>
 
 
