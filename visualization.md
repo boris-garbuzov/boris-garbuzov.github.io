@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Visualizations
-permalink: /visualizations/
+title: Visualization
+permalink: /visualization/
 ---
 
 <div class="row">
