@@ -57,10 +57,10 @@ time
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/scb2/medical_cube_BF_1d.jpeg" style="width:100%">
+    <img src="/assets/images/medical/medical_cube_BF_1d.jpeg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/scb2/medical_diagram.png" style="width:100%">
+    <img src="/assets/images/medical/medical_diagram.png" style="width:100%">
   </div>
 </div>
 
