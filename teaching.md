@@ -15,9 +15,6 @@ permalink: /teaching/
   <div class="column">
     STA221 The practice of statistics II
   </div>  
-  <div class="column">
-    STA257 Probability & Statistics I
-  </div>  
 </div>
 
 <div class="row">
@@ -25,12 +22,8 @@ permalink: /teaching/
     STA302 Methods of Data Analysis I
   </div>
   <div class="column">
-    xxx
-  </div> 
-   <div class="column">
-    xxx
-  </div> 
-  
+    STA257 Probability & Statistics I
+  </div>    
 </div>
 
 
