@@ -28,7 +28,7 @@ permalink: /teaching/
 
 <div class="row">
   <div class="column">
-    STA302 Methods of Data Analysis I
+    STA303 Methods of Data Analysis II
   </div>   
   <div class="column">
     STA304 Surveys, Sampling 
