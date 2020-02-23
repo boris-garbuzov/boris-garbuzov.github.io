@@ -28,7 +28,7 @@ permalink: /teaching/
 
 <div class="row">
   <div class="column">
-    STA304 Surveys, Sampling and Observational Data
+    STA304 Surveys, Sampling 
   </div>   
   <div class="column">
     STA305 Experimental Design
