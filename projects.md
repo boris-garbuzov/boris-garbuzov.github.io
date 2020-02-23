@@ -12,6 +12,9 @@ sample size increase.
 
 <div class="row">
   <div class="column">
+    <img src="/assets/images/scb2/triangle.png" style="width:100%">
+  </div>  
+  <div class="column">
     <img src="/assets/images/scb2/scb2_1.png" style="width:100%">
   </div>
   <div class="column">
