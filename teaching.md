@@ -28,20 +28,25 @@ permalink: /teaching/
 
 <div class="row">
   <div class="column">
-    STA304 Surveys, Sampling 
+    STA302 Methods of Data Analysis I
   </div>   
   <div class="column">
+    STA304 Surveys, Sampling 
+  </div>   
+ 
+</div>
+
+<div class="row">
+  <div class="column">
     STA305 Experimental Design
+  </div>  
+  <div class="column">
+    STA437 Methods for Multivariate Data
   </div>   
 </div>
 
 <div class="row">
   <div class="column">
-    STA437 Methods for Multivariate Data
-  </div>   
-  <div class="column">
     STA457 Time series analysis
-  </div>   
-</div>
-
-
+  </div> 
+</div>  
