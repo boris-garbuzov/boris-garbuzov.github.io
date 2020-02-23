@@ -19,13 +19,21 @@ permalink: /teaching/
 
 <div class="row">
   <div class="column">
-    STA302 Methods of Data Analysis I
-  </div>
-  <div class="column">
     STA257 Probability & Statistics I
-  </div>    
+  </div>   
+  <div class="column">
+    STA302 Methods of Data Analysis I
+  </div>   
 </div>
 
+<div class="row">
+  <div class="column">
+    STA304 Surveys, Sampling and Observational Data
+  </div>   
+  <div class="column">
+    STA305 Experimental Design
+  </div>   
+</div>
 
 
 
