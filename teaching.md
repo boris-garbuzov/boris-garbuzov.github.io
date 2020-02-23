@@ -4,8 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-**First course**
-- A little bit of explanation
+**Lecturer**
+- STA255 Statistical theory, summer 2018, University of Toronto  
 
-**Second course**
-- Some explanation
+**Teaching assistant in statistical courses**
+- STA220 The practice of statistics I, University of Toronto
+- STA221 The practice of statistics II, University of Toronto
