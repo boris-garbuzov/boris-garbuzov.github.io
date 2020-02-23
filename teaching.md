@@ -35,6 +35,13 @@ permalink: /teaching/
   </div>   
 </div>
 
-
+<div class="row">
+  <div class="column">
+    STA437 Methods for Multivariate Data
+  </div>   
+  <div class="column">
+    STA457 Time series analysis
+  </div>   
+</div>
 
 
