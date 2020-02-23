@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualization
+title: Expanded view of visualization project
 permalink: /visualization/
 ---
 
