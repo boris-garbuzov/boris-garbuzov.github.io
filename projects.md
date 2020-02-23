@@ -54,3 +54,13 @@ one assisted by neostigmine and the spontaneous recovery in context of two
 relaxants – rocuronium and pipecuronium. The parameters included the main
 demographic and health state variables with the primary focus on the recovery
 time
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/scb2/medical_cube_BF_1d.jpeg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/scb2/medical_diagram.png" style="width:100%">
+  </div>
+</div>
+
