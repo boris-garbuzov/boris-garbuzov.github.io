@@ -10,3 +10,4 @@ specializing in time series.
 My previous degrees reflect my other interests - finance, economics and
 mathematics. My practical experience includes Java, R, SAS and Python.
 Defending my thesis soon, I hope to work in finance or data-related industry. 
+
