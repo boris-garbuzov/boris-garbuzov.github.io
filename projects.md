@@ -13,7 +13,7 @@ sample size increase.
 <div class="row">
   <div class="column">
     <img src="/assets/images/scb2/triangle.png" style="width:100%">
-  </div>  
+  </div>
   <div class="column">
     <img src="/assets/images/scb2/scb2_1.png" style="width:100%">
   </div>
@@ -47,40 +47,39 @@ In my experimental cases the threshold estimator converged faster.
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/examples/1.png" style="width:100%">
+    <img src="/assets/images/visualization/3d.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/examples/2.png" style="width:100%">
+    <img src="/assets/images/visualization/heatmap.png" style="width:100%">
   </div>  <div class="column">
-    <img src="/assets/images/examples/3.png" style="width:100%">
+    <img src="/assets/images/visualization/histogram.png" style="width:100%">
   </div>
 
   <div class="column">
-    <img src="/assets/images/examples/4.png" style="width:100%">
+    <img src="/assets/images/visualization/mathematica_pyramid.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/examples/boxplot_BF_1d.jpeg" style="width:100%">
-  </div>  
+    <img src="/assets/images/visualization/boxplot_BF_1d.jpeg" style="width:100%">
+  </div>
 </div>
 <div class="row">
   <div class="column">
-    <img src="/assets/images/examples/5.jpg" style="width:100%">
+    <img src="/assets/images/visualization/me_vs_sample_size.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/examples/6.png" style="width:100%">
+    <img src="/assets/images/visualization/snakes.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/examples/7.png" style="width:100%">
+    <img src="/assets/images/visualization/gaussian_vs_bernoulli.png" style="width:100%">
   </div>
   <div class="column">
-    <img src="/assets/images/examples/8.png" style="width:100%">
+    <img src="/assets/images/visualization/diffirent_sample_size.png" style="width:100%">
   </div>
     <div class="column">
-    <img src="/assets/images/examples/2D_means_barplot_VAS_2h.jpeg" style="width:100%">
+    <img src="/assets/images/visualization/2D_means_barplot_VAS_2h.jpeg" style="width:100%">
   </div>
 
 </div>
-
 
 <br>
 
@@ -103,4 +102,3 @@ time
     <img src="/assets/images/medical/medical_diagram.png" style="width:100%">
   </div>
 </div>
-
