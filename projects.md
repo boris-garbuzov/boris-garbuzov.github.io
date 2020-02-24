@@ -47,7 +47,7 @@ In my experimental cases the threshold estimator converged faster.
 
 <div class="row">
   <div class="column">
-    <img src="/assets/images/visualization/3d.png" style="width:100%">
+    <img src="/assets/images/visualization/3D.png" style="width:100%">
   </div>
   <div class="column">
     <img src="/assets/images/visualization/heatmap.png" style="width:100%">
