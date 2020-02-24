@@ -102,3 +102,5 @@ time
     <img src="/assets/images/medical/medical_diagram.png" style="width:100%">
   </div>
 </div>
+
+
