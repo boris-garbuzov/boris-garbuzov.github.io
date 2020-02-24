@@ -43,7 +43,7 @@ In my experimental cases the threshold estimator converged faster.
 
 **Project 3. Visualization**
 - Images of data visualization, taken from the different projects.
-[visualization]({% link visualization.md %})
+[Visualization examples expanded view]({% link visualization.md %})
 
 <div class="row">
   <div class="column">
