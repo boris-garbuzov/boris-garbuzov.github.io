@@ -36,3 +36,11 @@ permalink: /visualization/
     <img src="/assets/images/visualization/diffirent_sample_size.png" style="width:100%">
   </div>
 </div>
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/visualization/2D_means_barplot_VAS_2h.jpeg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/visualization/boxplot_BF_1d.jpeg" style="width:100%">
+  </div>
+</div>
