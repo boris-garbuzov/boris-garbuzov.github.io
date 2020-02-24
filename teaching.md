@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
-
+ 
 **Lecturer**
 - STA255 Statistical theory, summer 2018, University of Toronto  
 
