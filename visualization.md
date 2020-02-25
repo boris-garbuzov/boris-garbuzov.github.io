@@ -1,3 +1,16 @@
+sftp://nikita-lys@172.20.10.3
+
+
+
+bot: python bot.py // vbot.py
+
+web: python main.py
+
+bot: gunicorn bot:app
+
+
+
+
 ---
 layout: page
 title: Expanded view of visualization examples
@@ -42,5 +55,24 @@ permalink: /visualization/
   </div>
   <div class="column">
     <img src="/assets/images/visualization/boxplot_BF_1d.jpeg" style="width:100%">
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/visualization/medical_cube_BF_1d.jpeg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/visualization/ridgeplot.png" style="width:100%">
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/visualization/interaction plot RV.jpeg" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/visualization/medical 2 densities.jpeg" style="width:100%">
   </div>
 </div>
