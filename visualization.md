@@ -44,8 +44,6 @@ permalink: /visualization/
     <img src="/assets/images/visualization/boxplot_BF_1d.jpeg" style="width:100%">
   </div>
 </div>
-
-
 <div class="row">
   <div class="column">
     <img src="/assets/images/visualization/medical_cube_BF_1d.jpeg" style="width:100%">
@@ -54,7 +52,6 @@ permalink: /visualization/
     <img src="/assets/images/visualization/ridgeplot.png" style="width:100%">
   </div>
 </div>
-
 <div class="row">
   <div class="column">
     <img src="/assets/images/visualization/interaction plot RV.jpeg" style="width:100%">
