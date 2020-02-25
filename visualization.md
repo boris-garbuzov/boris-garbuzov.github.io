@@ -1,16 +1,3 @@
-sftp://nikita-lys@172.20.10.3
-
-
-
-bot: python bot.py // vbot.py
-
-web: python main.py
-
-bot: gunicorn bot:app
-
-
-
-
 ---
 layout: page
 title: Expanded view of visualization examples
