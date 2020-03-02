@@ -4,6 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-Links to my resume: [PDF](/assets/pdf/resume.pdf) [LaTeX](/assets/zip/resume.zip)
-
-
+Links to my resume: <a href="/assets/pdf/resume.pdf" target="_blank">PDF</a>
