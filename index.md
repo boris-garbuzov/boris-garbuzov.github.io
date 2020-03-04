@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<p style="text-align:center;"><img src="/assets/images/self.jpg"
+<p style="text-align:center;"><img src="/assets/images/self.png"
  alt="" height="auto" width="300" style="border-radius:50%"></p>
 
 I am currently pursuing PhD in statistics at the University of Toronto,
