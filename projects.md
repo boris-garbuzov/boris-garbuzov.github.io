@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-**Project 1. Simultaneous  confidence band.** [Github repository](https://github.com/statistics101/nscb2)
+**Project 1. Simultaneous  confidence band.** [Github repository](https://github.com/borisgarbuzov/nscb2)
 - In my first project of statistics Ph.D.,
 I implemented Zhao's confidence band for autocorrelation.
 The coverage frequency matched the target confidence level better with
