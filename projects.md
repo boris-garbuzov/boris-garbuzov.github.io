@@ -105,7 +105,7 @@ time
 
 <br>
 
-**Project 5. CanadaPost**
+**Project 5. CanadaPost** [Github repository](https://github.com/statistics101/Canadapost)
 - This project is a test problem of CanadaPost. Here prepare the data and then compare performance of different customer groups. 
 
 <div class="row">
