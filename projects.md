@@ -24,7 +24,7 @@ sample size increase.
 
 <br>
 
-**Project 2. Newey-West vs threshold LRV estimate** [Github repository](https://github.com/statistics101/nw-vs-t)
+**Project 2. Newey-West vs threshold LRV estimate** [Github repository](https://github.com/borisgarbuzov/nw-vs-t)
 - In my second project of statistics Ph.D.,
 I experimentally compared the threshold LRV estimate to the industry
 standard Newey-West.
@@ -105,7 +105,7 @@ time
 
 <br>
 
-**Project 5. CanadaPost** [Github repository](https://github.com/statistics101/Canadapost)
+**Project 5. CanadaPost** [Github repository](https://github.com/borisgarbuzov/Canadapost)
 - This project is a test problem of CanadaPost. Here prepare the data and then compare performance of different customer groups. 
 
 <div class="row">
