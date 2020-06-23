@@ -106,7 +106,7 @@ time
 <br>
 
 **Project 5. CanadaPost** [Github repository](https://github.com/borisgarbuzov/Canadapost)
-- This project is a test problem of CanadaPost. Here prepare the data and then compare performance of different customer groups. 
+- This report is requested by Canada Post HR department to select a candidate for the data scientist position. It is conducted within a week of time. The purpose of the investigation is to study the influence of strike in 2018 onto volume of CanadaPost operations, along with the associated events, including mass media messages.  
 
 <div class="row">
   <div class="column">
