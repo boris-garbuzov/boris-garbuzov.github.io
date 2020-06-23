@@ -103,4 +103,17 @@ time
   </div>
 </div>
 
+<br>
+
+**Project 5. CanadaPost**
+- This project is a test problem of CanadaPost. Here prepare the data and then compare performance of different customer groups. 
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/canadapost/small_2_hist.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/canadapost/time_series.png" style="width:100%">
+  </div>
+</div>
 
