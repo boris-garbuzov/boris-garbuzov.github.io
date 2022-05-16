@@ -36,7 +36,8 @@ $on-laptop:        800px;
 // }
 
 .row {
-  align-items: center;
+  // temporary fix: comment line below
+  // align-items: center;
   display: flex;
 }
 

@@ -117,3 +117,18 @@ time
   </div>
 </div>
 
+<br>
+
+**Project 6. Simultaneous confidence band.** [Kaggle notebook](https://www.kaggle.com/code/statistics101guy/assignment-solution)
+
+<div class="row">
+  <div class="column">
+    <img src="/assets/images/oil-prices/simulation.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/oil-prices/forecast.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/assets/images/oil-prices/residuals.png" style="width:100%">
+  </div>
+</div>

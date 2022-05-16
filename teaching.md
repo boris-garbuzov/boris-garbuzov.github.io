@@ -3,11 +3,41 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
- 
-**Lecturer**
-- STA255 Statistical theory, summer 2018, University of Toronto  
 
-**Teaching assistant in statistical courses, University of Toronto**
+# 2020-2022, Schulich School of Business, York University 
+**Lecturer**
+<div class="row">
+  <div class="column">
+    MBAN-6210 Data science I  
+  </div>
+  <div class="column">
+    MBAN-6220 Data science II 
+  </div>  
+</div>
+
+<div class="row">
+  <div class="column">
+    MBAN-6090 Analytics consulting project 
+  </div>
+  <div class="column">
+    MMAI-6050 Artificial Intelligence consulting project 
+  </div>  
+</div>
+
+<div class="row">
+  <div class="column">
+    MMAI-5300 Numerical analysis  
+  </div>
+  <div class="column">
+    MMAI-5090 Business applications of artificial intelligence II 
+  </div>  
+</div>
+
+# University of Toronto  
+**Lecturer**
+- STA255 Statistical theory, summer 2018
+
+**Teaching assistant in statistical courses**
 <div class="row">
   <div class="column">
     STA220 The practice of statistics I
