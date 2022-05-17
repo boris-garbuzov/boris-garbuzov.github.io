@@ -1,28 +1,24 @@
 <footer class="site-footer h-card">
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
-
   <div class="wrapper">
-
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
-            {%- if site.email -%}
+          {%- if site.email -%}
             <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
+          {%- endif -%}
         </ul>
       </div>
-
-      <div class="footer-col footer-col-2">
+      <div class="footer-col col-md">
         {%- include social.html -%}
+          <ul class="social-media-list">
+            <li style="margin-top: -15px; padding-top: 5px;"><a href="{{ site.schulich }}" targe="_blank"><img src="https://schulich.yorku.ca/wp-content/themes/schulich22/img/favicons/favicon-16x16.png" style="padding-right: 8px;">Schulich School of Business</a><li>
+        </ul>
       </div>
-
-      <div class="footer-col footer-col-3">
+      <div class="footer-col col-lg">
         <p>{{- site.description | escape -}}</p>
       </div>
     </div>
-
   </div>
-
 </footer>
