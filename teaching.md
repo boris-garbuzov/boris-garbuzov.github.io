@@ -33,9 +33,14 @@ permalink: /teaching/
   </div>  
 </div>
 
-# University of Toronto  
+# 2014-2020, University of Toronto  
 **Lecturer**
-- STA255 Statistical theory, summer 2018
+
+<div>
+  <ul style="list-style-type: none; padding: 5px; margin: 0; margin-bottom: 15px;">
+    <li>STA255 Statistical theory, summer 2018</li>
+  </ul>
+</div>
 
 **Teaching assistant in statistical courses**
 <div class="row">

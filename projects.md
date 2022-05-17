@@ -119,7 +119,11 @@ time
 
 <br>
 
-**Project 6. Simultaneous confidence band.** [Kaggle notebook](https://www.kaggle.com/code/statistics101guy/assignment-solution)
+**Project 6. WTI Spot Price FOB (Dollars per Barrel).** [Kaggle notebook](https://www.kaggle.com/code/statistics101guy/assignment-solution)
+- Simulate and forecast oil prices with ARIMA model.
+- Forecast Brent oil prices in 2021, based on historical data of 1958-2020.
+- Use trend extraction by regression on time, and ARIMA fit for the residuals.
+- Evaluate the forecast performance metrics.  
 
 <div class="row">
   <div class="column">
